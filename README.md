@@ -1,4 +1,3 @@
-<img src="./drummer%20(1).jpg" width="200" alt="Drummer">
 ## Hi there 👋
 
 
