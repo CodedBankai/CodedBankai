@@ -1,3 +1,9 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
 <img data-importer="image" align="right" height="145" src="https://www.image2url.com/r2/default/gifs/1783173688553-088048c0-b942-4080-9b0e-3b4535a53fc4.gif"  />
 
 ###
@@ -67,6 +73,14 @@
   </a>
   <a href="rachit1.mitblr2023@learner.manipal.edu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<div data-importer="music" align="left">
+  <a href="https://open.spotify.com/user/31nwqt5775s746hxcdz6b4jbxmsm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nwqt5775s746hxcdz6b4jbxmsm&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
