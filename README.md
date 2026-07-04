@@ -2,7 +2,7 @@
 
 ###
 
-<h4 data-importer="text" align="left"># Hi there 👋 I'm Rachit Sinha<br><br>🎓 Final-year B.Tech CSE (AI) student at Manipal Institute of Technology<br><br>I'm passionate about building intelligent software that combines Artificial Intelligence with Full Stack Development to solve real-world problems.<br><br>Currently exploring:<br>- 🤖 Artificial Intelligence & Machine Learning<br>- 🌐 Full Stack Development<br>- ☁️ Cloud Deployment<br>- 📱 Android Development<br>- 📊 Data Science</h4>
+<h4 data-importer="text" align="left"># Hi there 👋 I'm Rachit Sinha<br><br>🎓 Final-year B.Tech CSE (AI) student at Manipal Institute of Technology<br><br>I'm passionate about building intelligent software that combines Artificial Intelligence with Full Stack Development to solve real-world problems.<br><br>Currently exploring:<br>- 🤖 Artificial Intelligence & Machine Learning<br>- 🌐 Full Stack Development<br>- 📱 Software Development<br>- 📊 Data Science</h4>
 
 ###
 
